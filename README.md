@@ -96,7 +96,7 @@ Kết luận về Trigger đã giúp gì cho đồ án của em.
 Trường phi chuẩn (denormalized field) là trường không cần thiết phải có trong mô hình chuẩn hóa dữ liệu (3NF trở lên), vì giá trị của nó có thể được tính toán từ các trường khác trong hệ thống. Tuy nhiên, người ta chủ động thêm vào để tăng hiệu năng hoặc phục vụ mục tiêu quản lý cụ thể nào đó.
 Bổ sung 1 trường phi chuẩn TongsoDanhSachMuon vào bảng PhieuMuon
 ![image](https://github.com/user-attachments/assets/ad17f985-1c82-493f-842a-727b49bbbf53)
-3. Viết Trigger cho bảng ThanhToan
+3. Viết Trigger cho bảng PhieuMuon
 ![image](https://github.com/user-attachments/assets/eda17cf8-702a-493c-95ef-d65803be7003)
 Kết quả sau khi chạy Tegger thì TongSoLuongMuon sẽ tự động tích cho mình:
 ![image](https://github.com/user-attachments/assets/b1011239-04a4-452c-8e3a-0108ccbea772)
