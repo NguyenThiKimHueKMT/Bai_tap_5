@@ -1,7 +1,7 @@
 # Bai_tap_5
 Bài tập về nhà 05 của SV: K225480106026-Nguyễn Thị kim Huệ- Môn Hệ quản trị CSDL
 A.Trình bày lại đầu bài của đồ án PT&TKHT:
-Mô tả bài toán của đồ án PT&TKHT, đưa ra yêu cầu của bài toán đó: -Tên đề tài:  Quản lý khách sạn -Khái quát nội dung đề tài: Hệ thống cho phép quản lý sách, sinh viên và các phiếu mượn trả. Sinh viên mượn sách qua phiếu, hệ thống tự động cập nhật số lượt mượn, kiểm tra số lượng tồn và hỗ trợ thống kê nhanh. Mục tiêu là tin học hóa quy trình quản lý thư viện, giảm sai sót, tăng hiệu quả tra cứu và thống kê.
+Mô tả bài toán của đồ án PT&TKHT, đưa ra yêu cầu của bài toán đó: -Tên đề tài:  Quản lý Mượn Trả sách Thư viện -Khái quát nội dung đề tài: Hệ thống cho phép quản lý sách, sinh viên và các phiếu mượn trả. Sinh viên mượn sách qua phiếu, hệ thống tự động cập nhật số lượt mượn, kiểm tra số lượng tồn và hỗ trợ thống kê nhanh. Mục tiêu là tin học hóa quy trình quản lý thư viện, giảm sai sót, tăng hiệu quả tra cứu và thống kê.
 Cơ sở dữ liệu của Đồ án PT&TKHT : Có database với các bảng dữ liệu cần thiết (3nf), Các bảng này đã có PK, FK,CK cần thiết.  
 ![Ảnh chụp màn hình 2025-04-23 203054](https://github.com/user-attachments/assets/585f265f-a332-468f-9f42-0ec86b1cafd1)  
 B. Nội dung Bài tập 05:
